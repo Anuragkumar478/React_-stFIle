@@ -1,0 +1,15 @@
+#p{
+   background-color: yellow; 
+}
+#set{
+ 
+   hight:40px;
+   display:flex;
+   padding-right:500px;
+ /* text-align:centre; */
+}
+.he li {
+    padding:200px;
+    list-style-type:none;
+    /* text-align:centre; */
+}
