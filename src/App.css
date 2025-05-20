@@ -1,15 +1,10 @@
-#p{
-   background-color: yellow; 
+#main_div{
+   background-color:blue;
 }
-#set{
- 
-   hight:40px;
-   display:flex;
-   padding-right:500px;
- /* text-align:centre; */
-}
-.he li {
-    padding:200px;
-    list-style-type:none;
-    /* text-align:centre; */
+#form_div{
+   justify-content:center;
+   align-item:center;
+   padding-left:500px;
+   padding-top:230px;
+   background-color:blue;
 }

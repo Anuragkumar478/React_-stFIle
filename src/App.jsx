@@ -8,16 +8,21 @@ function App() {
 
   return (
     <>
-      <div>
-    <div id='p'> 
-      < ul id='set' >
-           {/* /* ul mean unorder list and ol mens orderd list  */ }
-        <li className='he'>Home</li>
-         <li className='he'>About</li>
-          <li className='he'>Contact</li>
-           <li className='he'>Work</li>
-            <li className='he'>Blog</li>
-      </ul>
+      <div id='main_div'>
+    <div id='form_div'>
+      <form id='form'>
+      <label>Name </label><br/>
+      <input type='text'></input><br/>
+      <label>Roll No</label><br/>
+      <input type='number'></input><br/>
+      <label>class</label><br/>
+      <input type='text'></input><br/>
+      <label >gmail</label><br/>
+      <input type='email'></input><br/>
+       <label >Registration</label><br/>
+      <input type='number'></input><br/>
+     <button type='button'>Submit</button>
+      </form>
     </div>
       </div>
      
